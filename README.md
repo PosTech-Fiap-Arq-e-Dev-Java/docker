@@ -53,4 +53,4 @@ cd ms-usuario
 
 ## ✍️ Autor
 
-Este projeto é mantido por [Seu Nome Aqui].
+Raysse Geise Alves Cutrim - rayssecutrim@hotmail.com
